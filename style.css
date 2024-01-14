@@ -18,7 +18,7 @@
     margin-left: 10px;
 }
 .logo{
-    background-image: url("Amazon_Logo1.svg");
+    background-image: url("images/Amazon-Logo.jpg");
     background-size: cover;
     
     height: 55px;
@@ -115,7 +115,7 @@ span{
 
 /*hero section*/
 .hero-section{
-    background-image: url(hero_1.jpg);
+    background-image: url(images/hero_1.jpg);
     height: 500px;
     background-size: cover;
     display: flex;
